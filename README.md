@@ -2,6 +2,8 @@
 
 A toy implementation of the Java Virtual Machine (JVM) 7 specification written in Zig. This JVM can execute Java bytecode including object creation, method calls, and field access. It implements core JVM concepts like the heap, call frames, and method dispatch.
 
+***Still work in progress***, see [here](FEATURES.md) for a list of implemented features.
+
 ## Quickstart
 
 Requires [Zig 0.15](https://ziglang.org/download/) if you are on Mac, you can run `brew install zig` and [Docker](https://docs.docker.com/get-started/get-docker/) is required.
