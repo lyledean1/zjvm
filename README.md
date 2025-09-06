@@ -4,7 +4,7 @@ A toy implementation of the Java Virtual Machine (JVM) 7 specification written i
 
 ## Quickstart
 
-Requires [Zig 0.15](https://ziglang.org/download/) if you are on Mac, you can run `brew install zig` and [Docker](https://docs.docker.com/get-started/get-docker/) is requireed.
+Requires [Zig 0.15](https://ziglang.org/download/) if you are on Mac, you can run `brew install zig` and [Docker](https://docs.docker.com/get-started/get-docker/) is required.
 
 ```bash
 docker run --rm -v $(pwd):/workspace -w /workspace openjdk:7 javac example/src/main/java/basic/*.java
