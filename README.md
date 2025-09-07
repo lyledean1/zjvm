@@ -2,7 +2,7 @@
 
 A toy implementation of the Java Virtual Machine (JVM) 7 specification written in Zig. This JVM can execute Java bytecode including object creation, method calls, and field access. It implements core JVM concepts like the heap, call frames, and method dispatch.
 
-I've written a blog post about it [here](https://github.com/lyledean1/lyledean1/blob/main/_posts/2025-09-07-zjvm-jvm-in-zig.md).
+I've written a blog post about it [here](https://lyle.dev/2025/07/20/zjvm-jvm-in-zig.html).
 
 ***Still work in progress***, see [here](FEATURES.md) for a list of implemented features.
 
